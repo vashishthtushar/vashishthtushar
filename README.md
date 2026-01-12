@@ -35,29 +35,45 @@
 
 ## 🛠️ Skills & Tech Stack
 
-### 👨‍💻 Languages & Tools 
-<p>
-  <img src="https://skillicons.dev/icons?i= python,tensorflow,keras,pytorch,scikit-learn,pandas,numPy,openCV,sql, 
-git/github,streamlit,flask" />
+### 👨‍💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,sql" />
 </p>
 
+### 🤖 Machine Learning & Deep Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,sklearn" />
+</p>
 
+### 🧠 Generative AI & LLMs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-### 🧠 Generative AI
-- **LLMs (Large Language Models)**
-- **RAG (Retrieval-Augmented Generation)**
+- **Large Language Models (LLMs)**
+- **Retrieval-Augmented Generation (RAG)**
 - Hugging Face
 - Prompt Engineering
 - LLM APIs Integration
 
-### 📊 Data & Computer Vision
-<p>
+### 📊 Data Science & Computer Vision
+<p align="left">
   <img src="https://skillicons.dev/icons?i=pandas,numpy,opencv" />
 </p>
 
-### 🌐 Web & Deployment
-<p>
+### 🌐 Web, Apps & Deployment
+<p align="left">
   <img src="https://skillicons.dev/icons?i=flask,streamlit,git,github" />
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,linux" />
 </p>
 
 ### 🤝 Soft Skills
