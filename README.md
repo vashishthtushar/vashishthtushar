@@ -37,8 +37,8 @@
 
 ### 👨‍💻 Languages & Tools 
 <p>
-  <img src="https://skillicons.dev/icons?i= Python, TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy, OpenCV, SQL, 
-Git/GitHub, Streamlit, Flask" />
+  <img src="https://skillicons.dev/icons?i= python,tensorflow,keras,pytorch,scikit-learn,pandas,numPy,openCV,sql, 
+git/github,streamlit,flask" />
 </p>
 
 
