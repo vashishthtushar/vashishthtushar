@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML & Data Science Professional | Generative AI • LLMs • RAG • Deep Learning</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer+in+the+Making;LLMs+%7C+RAG+%7C+Deep+Learning;Building+Real-World+AI+Systems;Turning+Data+into+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer+in+the+Making;LLMs+%7C+RAG+%7C+DL+%7C+ML;Building+Real-World+AI+Systems;Turning+Data+into+Intelligence" alt="Typing SVG" />
 </p>
 
 <p align="center">
