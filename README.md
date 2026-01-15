@@ -32,49 +32,57 @@
 - 🔹 Real-world **AI Engineer / GenAI Engineer skillset**
 
 ---
+## 💻 Tech Stack (AI / ML / GenAI)
 
-## 🛠️ Skills & Tech Stack
+### 🧠 AI, ML & GenAI
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=google&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0A192F?style=for-the-badge&logo=keras&logoColor=red)
+![NLP](https://img.shields.io/badge/NLP-5A0FC8?style=for-the-badge&logo=python&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-2B9348?style=for-the-badge&logo=databricks&logoColor=white)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-264653?style=for-the-badge&logo=python&logoColor=white)
+![Optimization](https://img.shields.io/badge/Optimization-E76F51?style=for-the-badge&logo=python&logoColor=white)
 
-### 👨‍💻 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql" />
-</p>
+---
 
-### 🤖 Machine Learning & Deep Learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,sklearn" />
-</p>
+### 👨‍💻 Programming & Core
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🧠 Generative AI & LLMs
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+---
 
-- **Large Language Models (LLMs)**
-- **Retrieval-Augmented Generation (RAG)**
-- Hugging Face
-- Prompt Engineering
-- LLM APIs Integration
+### 🤖 ML / DL Frameworks
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 📊 Data Science & Computer Vision
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,opencv" />
-</p>
+---
 
-### 🌐 Web, Apps & Deployment
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flask,streamlit,git,github" />
-</p>
+### 📊 Data Science & CV
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+---
+
+### 🌐 Web, Apps & Dev
+![Streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
+
+---
 
 ### 🗄️ Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🧰 Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,linux" />
-</p>
+---
+
+### 🤖 GenAI Platforms & APIs
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
+🔥 Why This Is Perfect for You
 
 ### 🤝 Soft Skills
 **Teamwork • Communication • Problem-solving • Adaptability • Time Management • Critical Thinking**
