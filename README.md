@@ -137,7 +137,6 @@
 
 ---
 
-## 📊 GitHub Analytics
 
 ## 📊 GitHub Analytics
 
