@@ -23,6 +23,21 @@
 - 🧠 Currently diving deep into **LLMs, RAG pipelines, Agentic AI & GenAI systems**
 
 ---
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="mailto:tusharvashishth469@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://sites.google.com/view/tusharvas-portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://github.com/vashishthtushar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+--- 
 
 ## 🧠 What I’m Currently Working On
 
@@ -56,30 +71,18 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
----
-
-### 📊 Data Science & CV
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ---
 
-### 🌐 Web, Apps & Dev
+### 🌐 Web, Apps & Dev, 🤖 GenAI Platforms & APIs
 ![Streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### 🤖 GenAI Platforms & APIs
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
 🔥 Why This Is Perfect for You
@@ -103,17 +106,7 @@
 
 **Tech:** `Python` `Pandas` `NumPy` `XGBoost` `SHAP` `Streamlit` `LLM APIs`
 
----
 
-### 📊 **Customer Churn Prediction Dashboard**
-
-- Interactive **Streamlit dashboard**
-- **RandomForest** model with full EDA & feature engineering
-- **SHAP visualizations** to interpret churn drivers
-
-**Tech:** `Python` `Scikit-learn` `Pandas` `SHAP` `Streamlit`
-
----
 
 ## 💼 Experience
 
@@ -154,19 +147,6 @@
 </p>
 -
 
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="mailto:tusharvashishth469@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://sites.google.com/view/tusharvas-portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://github.com/vashishthtushar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
