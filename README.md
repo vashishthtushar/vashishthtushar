@@ -85,7 +85,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
-🔥 Why This Is Perfect for You
+
 
 ### 🤝 Soft Skills
 **Teamwork • Communication • Problem-solving • Adaptability • Time Management • Critical Thinking**
