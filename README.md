@@ -114,13 +114,6 @@
 **Mar 2025 – Apr 2025 | Remote**
 - Built MERN-based web applications  
 - Implemented **authentication, CRUD operations, dashboards, REST APIs**
-
----
-
-### 📘 Teaching Instructor — *Sarda Institute*  
-**May 2023 – Sep 2023 | Dehradun, India**
-- Taught **Mathematics & Science** using analytical & real-life methods
-
 ---
 
 ## 📜 Certifications & Achievements
